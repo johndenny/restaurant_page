@@ -1,0 +1,27 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "Simple restaurant page using Dom manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndenny/restaurant_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndenny/restaurant_page/issues"
+  },
+  "homepage": "https://github.com/johndenny/restaurant_page#readme",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "wepack-cli": "^0.0.1-security"
+  }
+}
